@@ -1,0 +1,5 @@
+steps:
+  - name: golang
+    args: ['go', 'build', '.']
+  - name: golang
+    args: ['hello world']
